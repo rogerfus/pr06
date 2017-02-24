@@ -1,0 +1,27 @@
+Material Design Icons: 
+https://materialdesignicons.com/
+
+account: Uno para cada integrante del grupo
+
+arrow-left-box: Anterior
+
+arrow-right-box: Siguiente
+
+send: Enviar
+
+eraser-variant: Borrar contenido
+
+emoticon-dead // emoticon-poop: 0
+emoticon-sad: 2.5
+emoticon-neutral // emoticon-happy: 5
+emoticon-excited // emoticon-happy: 7.5
+emoticon-cool: 10
+
+Font Awesome:
+http://fontawesome.io/icons/
+
+frown-o: Cara triste
+
+meh-o: Cara indiferente
+
+smile-o: Cara contenta
